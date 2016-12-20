@@ -1,0 +1,17 @@
+{
+  "name": "workflow",
+  "description": "Workflow Front-end",
+  "authors": [
+    "Kevin Oliveira <me@kevinoliveira.com.br>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kvnol/workflow",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

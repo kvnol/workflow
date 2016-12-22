@@ -1,17 +1,17 @@
 {
-  "name": "Vale Saude Sempre",
-  "version": "1.0.0",
+  "name": "Workflow",
+  "version": "0.0.0",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/sejainsane/vale-sa-de-sempre"
+    "url": "git+https://github.com/kvnol/workflow.git"
   },
   "author": "Kevin Oliveira <me@kevinoliveira.com.br>",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "bugs": {
-    "url": "https://bitbucket.org/sejainsane/vale-sa-de-sempre/issues"
+    "url": "https://github.com/kvnol/workflow/issues"
   },
-  "homepage": "http://www.valesaudesempre.com.br/",
+  "homepage": "https://github.com/kvnol/workflow/",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-util": "^3.0.7"
